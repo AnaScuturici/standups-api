@@ -1,22 +1,9 @@
-# README
-```rails new . --api --database=postgresql```
-```bundle lock --add-platform x86_64-linux --add-platform ruby```
-```rails generate controller welcome index```
+# Standups API  
+Api built for React app [Morning standups](https://github.com/AnaScuturici/standups)  
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
+* Ruby version  
+```ruby-3.1.1```
 
 * Deployment instructions
+[Heroku](https://secret-wave-37282.herokuapp.com/api/v1/standups)  
 
-* ...
