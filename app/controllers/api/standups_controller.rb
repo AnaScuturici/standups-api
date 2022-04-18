@@ -1,4 +1,4 @@
-class StandupsController < ApplicationController
+class Api::V1::StandupsController < ApplicationController
   before_action :set_standup, only: %i[ show update destroy ]
 
   # GET /standups
